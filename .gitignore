@@ -1,3 +1,4 @@
 *.log
 *.pub
 github_ssh_key
+.ipynb_checkpoints/
