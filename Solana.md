@@ -26,10 +26,10 @@ Using a Python script, I collected a total 1266 articles from Google News that m
 ## Graphs
 
 #### Bar-chart showing the number of Scam-related mentions relative to General mentions of Solana in Google News articles for the period from September 1st to October 3rd. Total number of articles - 1266
-![Staked Bar-chart](https://github.com/alibek-git/crypto-scams-challenge/media/solana-mentions-graph.png)
+![Staked Bar-chart](https://github.com/alibek-git/micrograd-clone/blob/main/media/solana-mentions-graph.png)
 
 #### Pie-Chart below illustrates that with regards to Solana, 4.4%, or 56 out of 1266 articles, can be classified as scam-related.
-![Pie-chart](https://github.com/alibek-git/crypto-scams-challenge/media/solana-mentions-pie-chart.png)
+![Pie-chart](https://github.com/alibek-git/micrograd-clone/blob/main/media/solana-mentions-pie-chart.png)
 
 #### Word-cloud to visually represent the most frequently occurring words or phrases in the titles of 1266 articles.
-![Word Cloud](https://github.com/alibek-git/crypto-scams-challenge/media/solana-mentions-word-cloud.png)
+![Word Cloud](https://github.com/alibek-git/micrograd-clone/blob/main/media/solana-mentions-word-cloud.png)
